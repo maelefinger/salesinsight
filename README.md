@@ -84,13 +84,10 @@ salesinsight-py/
 
 O projeto seguiu um modelo de versionamento baseado em *branches* por funcionalidade:
 
-- `main`: Código estável e pronto para entrega.
-- `develop`: Branch de integração das funcionalidades.
-- `feat/leitura-limpeza`: Implementação dos requisitos RF01 a RF03.
-- `feat/analise-metricas`: Implementação das transformações, groupby e segmentação (RF04 a RF06).
-- `feat/visualizacoes`: Criação e exportação dos gráficos Matplotlib/Seaborn (RF07).
-- `feat/pipeline-main`: Organização das funções reutilizáveis, função de ordem superior e fluxo `main()` (RF08 a RF10).
-- `docs/readme-video`: Elaboração da documentação README e roteiro do vídeo.
+* main: Branch principal com o código estável e pronto para entrega.
+* develop: Branch de integração das funcionalidades.
+* feat/pipeline-dados: Implementação da pipeline completa de carregamento, limpeza, métricas, gráficos e exportação de relatórios (RF01 a RF10).
+* docs/readme: Elaboração e atualização da documentação completa do projeto no README.md.
 
 ---
 
