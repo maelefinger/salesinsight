@@ -94,4 +94,4 @@ O projeto seguiu um modelo de versionamento baseado em *branches* por funcionali
 ## Vídeo de Demonstração
 
 Segue um vídeo com a explicação do código e execução do projeto:
-- **Link do Vídeo:** [o link será colocado em seguida]
+- **Link do Vídeo:** https://www.loom.com/share/d3600a242c3b43d5adaa30f446ed3928
